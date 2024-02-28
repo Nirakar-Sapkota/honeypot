@@ -5,3 +5,6 @@ How you can create log analytics workspace.
 How you can run scripts on the VM and capture data from the event logs
 Train Log analytics and make queries with Regex
 Display data on a Map to analyse potential threats and attacks.
+
+Follow my youtube Channel for more
+https://youtu.be/uzQzKj3ivRc
